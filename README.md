@@ -17,8 +17,8 @@
  
 <h1>Proje Görüntüsü | Responsive Design </h1>
 
-![](img/web_gif.gif)
+![](img/web-gif.gif)
 
 <p>Responsive</p>
 
-![](img/mobile_gif.gif)
+![](img/mobile-gif.gif)
