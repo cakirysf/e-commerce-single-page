@@ -7,7 +7,7 @@
   <li>Css units for responsive desing / Duyarlı tasarım için CSS</li>
   <li>Css transitions & animations /CSS geçi̇şleri̇ ve animasyonlar</li>
   <li>Css media queries / CSS medya sorguları</li>
-  <li>Responsive</li>
+  <li>Responsive desing</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
